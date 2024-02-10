@@ -1,8 +1,7 @@
 documentation:
 - any:
   - changed-files:
-    - all-globs-to-all-files: ['docs/**']
-    - any-glob-to-any-file: ['docs/**', '!lib/rules/**']
+    - all-globs-to-all-files: ['docs/**', '!lib/rules/**']
 
 rule:
 - any:
