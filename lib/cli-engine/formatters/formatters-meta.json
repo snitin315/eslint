@@ -1,7 +1,7 @@
 [
     {
         "name": "html",
-        "description": "Outputs results to HTML. The `html` formatter is useful for visual presentation in the browser."
+        "description": "Outputs results to HTML. The `html` formatter is useful for visual presentation in the browser.  "
     },
     {
         "name": "json-with-metadata",
