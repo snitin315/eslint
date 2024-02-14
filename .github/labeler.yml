@@ -8,6 +8,7 @@ rule:
   - changed-files:
     - any-glob-to-any-file: ['lib/rules/**']
 
+
 cli:
 - any:
   - changed-files:
